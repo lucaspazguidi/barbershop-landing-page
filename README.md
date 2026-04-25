@@ -1,6 +1,6 @@
 # 💈 Barbershop Landing Page
 
-A modern and responsive landing page designed for a barbershop business.
+A modern, high-converting landing page designed to help barbershops attract more clients and present their brand professionally.
 
 ## 🚀 Features
 - Fully responsive design
@@ -14,10 +14,11 @@ A modern and responsive landing page designed for a barbershop business.
 - JavaScript
 
 ## 📸 Preview
-(Add a screenshot here)
+<img width="1904" height="914" alt="IMG-BARBEARIA" src="https://github.com/user-attachments/assets/a9898537-c002-4e88-9cf2-b5aed4e24d27" />
+
 
 ## 🔗 Live Demo
-(Add your live link here)
+https://lucaspazguidi.github.io/barbershop-landing-page/
 
 ## 📌 Notes
 This is a concept project created for portfolio purposes.
